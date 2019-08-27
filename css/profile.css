@@ -1,0 +1,98 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar-header a{
+	background: url(../img/logo2.png) no-repeat 20% 50%;
+	padding-left: 65px;
+        color: black;
+	margin-left:15px;
+
+}
+.left-prf{
+	width: 130px;
+	height: 130px;
+	border: 5px solid white;
+	border-radius: 100px;
+	padding: 0px;
+	margin-top: -30px;
+	background-color: white;
+	box-shadow: 3px 3px 15px gray;
+}
+.panel-default{
+	text-align: center;
+	background-color: white;
+	box-shadow: 5px 5px 5px gray;
+}
+.panel-default h2{
+	margin-left: 20px;
+}
+.prg-head{
+	text-align: left;
+}
+.sep{
+	width: 100%;
+	border-top: 1px solid #DcDcDc;
+}
+.panel-default span{
+	font-size: 20px;
+}
+.prf-para{
+	float: left;
+	padding: 10px;
+	margin-left: 20px;
+	margin-top: 5px;
+}
+.prf-para1{
+	border-left: 1px solid #DcDcDc;
+	margin-left: 450px;
+	padding: 10px;
+	margin-top: 5px;
+}
+.sep1{
+	width: 90%;
+	border-top: 1px solid #DcDcDc;
+	margin-left: 80px;
+}
+.btn-default{
+	margin-left: 600px;
+}
+.btn-primary{
+	margin-left: 20px;
+}
+.media-object{
+	margin-left: 20px;
+}
+.cover-img{
+	width: 100%;
+	height: 250px;
+	margin-top: -20px;
+}
+.col-sm-8{
+	margin-top: -100px;
+}
+.col-sm-3{
+	margin-top: -50px;
+}
+.btn-group{
+	margin-top: 50px;
+}
+.col-sm-3 a{
+	color: white;
+	padding: 10px;
+	background: url(../img/cam.png) no-repeat 0% 40%;
+	padding-left: 32px;
+}
+.col-sm-3 a:hover{
+	text-decoration: none;
+	color: white;
+}
+.par a{
+	float: left;
+	margin-top:0px;
+	margin-left: -20px;
+	color: black;
+}
+.par a:hover{
+	color: gray;
+}

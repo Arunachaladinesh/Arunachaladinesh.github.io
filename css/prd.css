@@ -1,0 +1,50 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar-header a{
+	background: url(../img/logo2.png) no-repeat 20% 50%;
+	padding-left: 65px;
+        color: black;
+	margin-left:15px;
+
+}
+
+.panel-default{
+	margin-top: 10px;
+	height: 600px;
+	padding: 20px;
+}
+.panel-default form{
+	margin-top: 10px;
+}
+.btn-info{
+	float: left;
+	margin-left: 0px;
+}
+.frg-pass{
+	float: left;
+	margin-left: 20px;
+	margin-top: 7px;
+}
+.frg-pass a{
+	color: black;
+}
+.frg-pass a:hover{
+	color: red;
+}
+.navbar-fixed-bottom{
+	margin-top: 20px;
+}
+.navbar-fixed-bottom p{
+	color: black;
+	text-align: center;
+	margin-top: 15px;
+}
+.navbar-fixed-bottom p a{
+	font-size: 18px;
+	color: #FA620F;
+}
+.form-group label{
+	color: white;
+}

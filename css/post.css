@@ -1,0 +1,139 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	padding-top: 0px;
+}
+.navbar-header a{
+	background: url(../img/logo2.png) no-repeat 20% 50%;
+	padding-left: 65px;
+        color: black;
+	margin-left:15px;
+
+}
+
+.navbar-fixed-bottom p{
+	color: white;
+	text-align: center;
+	margin-top: 15px;
+}
+.navbar-fixed-bottom p a{
+	font-size: 18px;
+	color: #FA620F;
+}
+.col-sm-2 .panel{
+	text-align: center;
+}
+.left-prf{
+	width: 70px;
+	height: 70px;
+	border: 1px solid black;
+	border-radius: 100px;
+	padding: 10px;
+	margin-top: -30px;
+	background-color: white;
+}
+.prf{
+	width: 80px;
+	height: 80px;
+	border: 1px solid black;
+	border-radius: 100px;
+	padding: 5px;
+	margin-right: 10px;
+}
+.prf{
+	float: left;
+}
+.head-btm{
+	font-size: 12px;
+	margin-top: -5px;
+}
+.head-btm2{
+	font-size: 12px;
+	margin-top: -5px;
+}
+.cont-img{
+	width: 100%;
+	height: 100%;
+}
+.head-btm3{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.head-btm1{
+	margin-left: 10px;
+}
+.like{
+	background: url(../img/like.png) no-repeat 0% 0%;
+	padding-left: 20px;
+	color: gray;
+}
+.comm{
+	background: url(../img/comm.png) no-repeat 0% 0%;
+	padding-left: 20px;
+	margin-left: 10px;
+	color: gray;
+}
+.share{
+	background: url(../img/share.png) no-repeat 0% 50%;
+	padding-left: 20px;
+	margin-left: 10px;
+	color: gray;
+}
+.panel-footer a:hover{
+	text-decoration: none;
+	color: black;
+}
+.left-head{
+	font-size: 16px;
+	font-weight: bold;
+}
+.left-head1{
+	font-size: 13px;
+	font-weight: bold;
+	margin-top: -10px;
+}
+.up-prf{
+	font-size: 13px;
+}
+.left-num, .left-num1{
+	font-size: 18px;
+	color: blue;
+}
+.left-para, .left-para1{
+	font-size: 13px;
+	margin-top: -10px;
+}
+.left-sep{
+	width: 90%;
+	border-top: 1px solid #D3D3D3;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.cen-para{
+	margin-left: 30px;
+	margin-top: 10px;
+}
+.chs-img{
+	margin-left: 650px;
+	margin-top: -30px;
+}
+.center-sep{
+	width: 92%;
+	border-top: 1px solid #D3D3D3;
+	margin-left: 30px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.cent-link{
+	margin-left: 30px;
+	padding: 10px;
+}
+.btn{
+	margin-left: 620px;
+	margin-top: 0px;
+}
+.center-sep1{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
